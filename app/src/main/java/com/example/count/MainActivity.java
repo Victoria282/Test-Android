@@ -11,6 +11,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     // Настин комит от 05.09.21
+    // Второй Настин комит
     // Nastya commit
     // 11111 22222 33333
 
